@@ -1,0 +1,63 @@
+.header{
+    height: 85px;
+    background-color: black;
+    display: flex;
+}
+.left-section{
+    width: 200px;
+    background-color:black;
+    height: 80px;
+    display: flex;
+    align-items: center;
+
+   
+}
+.amd-logo{
+    height: 26px;
+    padding-left: 60px;
+  
+}
+.middile-section{
+    display: flex;
+    background-color:black;
+    width: 900px;
+    height: 80px;
+
+}
+.mid-elements li{
+    text-decoration: none;
+    display: inline-block;
+    padding-right: 50px;
+    font-size: 17px;
+    color: white;
+    padding-top: 10px;
+    font-family: sans-serif;
+    list-style: none;
+   
+    
+}
+.mid-elements li:hover{
+    text-decoration: underline;
+    
+}
+.right-section{
+    width: 440px;
+    background-color: black;
+    display: flex;
+    align-items: center;
+
+}
+.globe{
+height: 27px;
+padding-left: 260px;
+padding-top: 5px
+}
+.search{
+    padding-top:5px ;
+    padding-left:25px ;
+    height: 27px;
+}
+.mid-elements li a{
+    text-decoration: none;
+    color: white;
+}

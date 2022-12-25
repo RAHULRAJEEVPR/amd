@@ -1,0 +1,181 @@
+.footer{
+    width: 100%;
+    height: 595px;
+    background-color: black;
+    margin: 0;
+    
+}
+.footer1{
+    width: 100%;
+    height: 140px;
+    background-color: black;
+    position: relative;
+    margin: 0;
+    
+}
+.foot1-txt{
+    color: white;
+    position: absolute;
+    font-size: 20px;
+    font-weight: bolder;
+    border-style: solid;
+    border-color: grey;
+    border-width: 1px;
+    padding-bottom: 15px;
+    padding-right: 90px;
+    border-top-color: black;
+    border-left-color: black;
+    border-right-color: black;
+    left: 130px;
+    top: 70px;
+    
+}
+.fa-solid{
+    color: white;
+    font-size: 20px;
+    padding-left: 530px;
+   top: 3px;
+    padding-top: 70px;
+    position: absolute;
+}
+.fa-facebook-f{
+    color: white;
+    padding-top: 65px;
+    font-size: 25px;
+    padding-left: 1000px;
+    position: absolute;
+}
+.fa-twitter
+{
+    color: white;
+    padding-top: 65px;
+    font-size: 25px;
+    padding-left: 1070px;
+    position: absolute;
+}
+.fa-instagram{
+    color: white;
+    padding-top: 65px;
+    font-size: 25px;
+    padding-left: 1140px;
+    position: absolute;
+}
+.fa-linkedin-in{
+    color: white;
+    padding-top: 65px;
+    font-size: 25px;
+    padding-left: 1210px;
+    position: absolute;
+}
+.fa-envelope{
+    color: white;
+    padding-top: 65px;
+    font-size: 25px;
+    padding-left: 1280px;
+    position: absolute;
+}
+.fa-youtube{
+    color: white;
+    padding-top: 65px;
+    font-size: 25px;
+    padding-left: 1350px;
+    position: absolute;
+}
+.fa-twitch{
+    color: white;
+    padding-top: 65px;
+    font-size: 25px;
+    padding-left: 1350px;
+    position: absolute;
+}
+.footer2{
+    width: 100%;
+    height: 210px;
+    background-color:black;
+    position: relative;
+    padding-top: 100px;
+    margin: 0;
+    
+
+}
+.foot2-1{
+    margin: 0;
+    text-decoration: none;
+    color: rgb(150, 149, 149);
+    list-style-type: none;
+    line-height: 33px;
+    font-size: 16px;
+    position: absolute;
+    left: 170px;
+   
+
+}
+.foot2-line1{
+   font-size: 23px;
+   color: white;
+}
+
+.foot2-2{
+    margin: 0;
+    text-decoration: none;
+    color:rgb(150, 149, 149);;
+    list-style-type: none;
+    line-height: 33px;
+    font-size: 16px;
+    position: absolute;
+    left: 400px;
+}
+.foot2-3{
+    margin: 0;
+    text-decoration: none;
+    color: rgb(150, 149, 149);;
+    list-style-type: none;
+    line-height: 33px;
+    font-size: 16px;
+    position: absolute;
+    left: 630px;
+}
+.foot2-4{
+    margin: 0;
+    text-decoration: none;
+    color: rgb(150, 149, 149);;
+    list-style-type: none;
+    line-height: 33px;
+    font-size: 16px;
+    position: absolute;
+    left: 850px;
+}
+.foot2-5{
+    margin: 0;
+    text-decoration: none;
+    color: rgb(150, 149, 149);;
+    list-style-type: none;
+    line-height: 33px;
+    font-size: 16px;
+    position: absolute;
+    left: 1050px;
+}
+.footer3{
+    width: 100%;
+    height: 145px;
+
+    position: relative;
+    margin: 0;
+}
+.foot3-list{
+    margin: 0;
+    color: rgb(150, 149, 149);
+    position: absolute;
+    left: 300px;
+    top: 20px;
+    font-family: sans-serif;
+    font-size: 13px;
+    
+}
+.foot-list2{
+    color: rgb(150, 149, 149);;
+    position: absolute;
+    font-size: 13px;
+    left: 680px;
+    top: 70px;
+}
